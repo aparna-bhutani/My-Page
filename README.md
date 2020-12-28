@@ -1,3 +1,3 @@
-# Capstone-Website
+# My-Page
 
-https://jzhou60.github.io/Capstone-Website/
+https://aparna-bhutani.github.io/My-Page/
